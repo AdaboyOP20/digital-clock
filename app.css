@@ -1,0 +1,14 @@
+
+body {
+    background-color: black;
+}
+.clock{
+    color: aqua;
+    font-size: 50px;
+    text-align: center;
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    font-family: fantasy;
+    letter-spacing: 5px;
+}
